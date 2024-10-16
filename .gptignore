@@ -1,0 +1,25 @@
+__pycache__/ *.pyc *.log .git
+/*
+.gptignore
+LICENSE
+.github/*
+.tox/*
+.mypy_cache/*
+*.whl
+*.tar
+*.tar.gz
+.gitignore
+*.env*
+*.png
+*.jpeg
+*.jpg
+*bin/*
+*node_modules/*
+.venv/*
+*build/*
+*/
+.git
+/*
+*.idea/*
+*.git/*
+*.jar
